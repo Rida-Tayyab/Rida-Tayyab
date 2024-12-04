@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rida Tayyab</h1>
-<h3 align="center">A passionate software developer from Sadiqabad!</h3>
+<h3 align="center">A passionate software developer</h3>
 
 - 🔭 I’m currently working on [Dudo - Project Management](https://github.com/TalalMajeed/Dudo-Frontend)
 
