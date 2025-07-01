@@ -2,8 +2,6 @@
 <h3 align="center">Full-Stack Developer | AI & ML Enthusiast | DevOps & Cloud Explorer | Innovation-Driven</h3>
 <p align="center"><em>Bridging software engineering with intelligent systems to build scalable, automated, and research-driven solutions.</em></p>
 
-- 🔭 I’m currently building [Dudo - Project Management](https://github.com/TalalMajeed/Dudo-Frontend)
-
 - 🚀 Passionate about **AI research**, **machine learning systems**, and **innovative problem-solving**
 
 - ☁️ Diving deeper into **cloud engineering**, **DevOps pipelines**, and **infrastructure automation**
