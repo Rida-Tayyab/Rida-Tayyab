@@ -1,16 +1,21 @@
 <h1 align="center">Hi 👋, I'm Rida Tayyab</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">Full-Stack Developer | AI & ML Enthusiast | DevOps & Cloud Explorer | Innovation-Driven</h3>
+<p align="center"><em>Bridging software engineering with intelligent systems to build scalable, automated, and research-driven solutions.</em></p>
 
-- 🔭 I’m currently working on [Dudo - Project Management](https://github.com/TalalMajeed/Dudo-Frontend)
+- 🔭 I’m currently building [Dudo - Project Management](https://github.com/TalalMajeed/Dudo-Frontend)
 
-- 👨‍💻 All of my projects are available at [https://rida-tayyab.github.io](https://rida-tayyab.github.io)
+- 🚀 Passionate about **AI research**, **machine learning systems**, and **innovative problem-solving**
 
-- 💬 Ask me about **React, Vue, JavaScript, UI / UX**
+- ☁️ Diving deeper into **cloud engineering**, **DevOps pipelines**, and **infrastructure automation**
 
-- 📫 How to reach me **ridatayyab186@gmail.com**
+- 👨‍💻 All of my work lives at [https://rida-tayyab.github.io](https://rida-tayyab.github.io)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rida-tayyab-40168728b/](https://www.linkedin.com/in/rida-tayyab-40168728b/)
+- 💬 Ask me about **React, Vue, JavaScript, DevOps, Firebase, AI tools, and UI/UX design**
 
+- 📫 Reach out via **ridatayyab186@gmail.com**
+
+- 📄 View my full experience on [LinkedIn](https://www.linkedin.com/in/rida-tayyab-40168728b/)
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rida-tayyab-40168728b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rida-tayyab-40168728b" height="30" width="40" /></a>
